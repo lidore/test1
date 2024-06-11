@@ -1,4 +1,4 @@
-x = 77
+x = 5
 y = 66
 z = x+y
 print(x)
